@@ -1,9 +1,23 @@
-var Nightmare = require('nightmare');
-var nightmare = Nightmare({ show: false })
+var Nightmare = require('nightmare')
+var nightmare = Nightmare({ show: true })
+var tojson = require('./to-json.js')
 
 // capture script params
-var username = process.argv[2];
-var password = process.argv[3];
+var username = process.argv[2]
+var password = process.argv[3]
+
+// define resulting data struture
+var dataStructure = [
+  {
+    name: 'td.first',
+    team: 'td:nth-child(3)',
+    big_chances: 'td:nth-child(4)',
+    chances_created: 'td:nth-child(5)',
+    shots_inside_box: 'td:nth-child(11)',
+    shots_on_target: 'td:nth-child(12)',
+    touches_penalty_area: 'td:nth-child(13)'
+  }
+];
 
 // run automation
 nightmare
@@ -27,6 +41,10 @@ nightmare
   .wait(5000)
   .end()
 
+  .then(function(result){
+    tojson.capture(dataStructure)
+  })
+
   .catch(function (error) {
-    console.error('Search failed:', error);
-  });
+    console.error('Search failed:', error)
+  })
