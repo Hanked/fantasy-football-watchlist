@@ -1,0 +1,25 @@
+{
+  "name": "fantasy-football-watchlist",
+  "version": "0.0.1",
+  "description": "",
+  "main": "ffs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hanked/fantasy-football-watchlist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hanked/fantasy-football-watchlist/issues"
+  },
+  "homepage": "https://github.com/Hanked/fantasy-football-watchlist#readme",
+  "dependencies": {
+    "fs": "0.0.2",
+    "nightmare": "^2.4.1",
+    "path": "^0.12.7",
+    "x-ray": "^2.3.0"
+  }
+}

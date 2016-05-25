@@ -1,0 +1,2963 @@
+[
+  {
+    "name": "Defoe",
+    "team": "SUN",
+    "big_chances": "2",
+    "chances_created": "3",
+    "shots_inside_box": "15",
+    "shots_on_target": "8",
+    "touches_penalty_area": "25"
+  },
+  {
+    "name": "Vardy",
+    "team": "LEI",
+    "big_chances": "6",
+    "chances_created": "3",
+    "shots_inside_box": "14",
+    "shots_on_target": "7",
+    "touches_penalty_area": "24"
+  },
+  {
+    "name": "Ulloa",
+    "team": "LEI",
+    "big_chances": "3",
+    "chances_created": "4",
+    "shots_inside_box": "13",
+    "shots_on_target": "3",
+    "touches_penalty_area": "30"
+  },
+  {
+    "name": "Aguero",
+    "team": "MCI",
+    "big_chances": "2",
+    "chances_created": "5",
+    "shots_inside_box": "12",
+    "shots_on_target": "6",
+    "touches_penalty_area": "35"
+  },
+  {
+    "name": "Long (Shane)",
+    "team": "SOT",
+    "big_chances": "6",
+    "chances_created": "5",
+    "shots_inside_box": "11",
+    "shots_on_target": "3",
+    "touches_penalty_area": "30"
+  },
+  {
+    "name": "Rondón",
+    "team": "WBA",
+    "big_chances": "2",
+    "chances_created": "6",
+    "shots_inside_box": "11",
+    "shots_on_target": "4",
+    "touches_penalty_area": "27"
+  },
+  {
+    "name": "Ighalo",
+    "team": "WAT",
+    "big_chances": "1",
+    "chances_created": "1",
+    "shots_inside_box": "11",
+    "shots_on_target": "4",
+    "touches_penalty_area": "35"
+  },
+  {
+    "name": "Kane (Harry)",
+    "team": "TOT",
+    "big_chances": "3",
+    "chances_created": "3",
+    "shots_inside_box": "11",
+    "shots_on_target": "6",
+    "touches_penalty_area": "24"
+  },
+  {
+    "name": "Deeney",
+    "team": "WAT",
+    "big_chances": "4",
+    "chances_created": "5",
+    "shots_inside_box": "10",
+    "shots_on_target": "7",
+    "touches_penalty_area": "28"
+  },
+  {
+    "name": "Lukaku",
+    "team": "EVE",
+    "big_chances": "3",
+    "chances_created": "2",
+    "shots_inside_box": "10",
+    "shots_on_target": "7",
+    "touches_penalty_area": "25"
+  },
+  {
+    "name": "King (Andy)",
+    "team": "LEI",
+    "big_chances": "4",
+    "chances_created": "4",
+    "shots_inside_box": "9",
+    "shots_on_target": "3",
+    "touches_penalty_area": "17"
+  },
+  {
+    "name": "Jerome",
+    "team": "NOR",
+    "big_chances": "2",
+    "chances_created": "2",
+    "shots_inside_box": "9",
+    "shots_on_target": "3",
+    "touches_penalty_area": "29"
+  },
+  {
+    "name": "Giroud",
+    "team": "ARS",
+    "big_chances": "2",
+    "chances_created": "9",
+    "shots_inside_box": "9",
+    "shots_on_target": "4",
+    "touches_penalty_area": "40"
+  },
+  {
+    "name": "A Ayew",
+    "team": "SWA",
+    "big_chances": "3",
+    "chances_created": "4",
+    "shots_inside_box": "9",
+    "shots_on_target": "5",
+    "touches_penalty_area": "23"
+  },
+  {
+    "name": "Benteke",
+    "team": "LIV",
+    "big_chances": "3",
+    "chances_created": "5",
+    "shots_inside_box": "9",
+    "shots_on_target": "3",
+    "touches_penalty_area": "25"
+  },
+  {
+    "name": "Alli",
+    "team": "TOT",
+    "big_chances": "4",
+    "chances_created": "13",
+    "shots_inside_box": "9",
+    "shots_on_target": "4",
+    "touches_penalty_area": "19"
+  },
+  {
+    "name": "Iheanacho",
+    "team": "MCI",
+    "big_chances": "4",
+    "chances_created": "2",
+    "shots_inside_box": "9",
+    "shots_on_target": "8",
+    "touches_penalty_area": "23"
+  },
+  {
+    "name": "Gardner (Craig)",
+    "team": "WBA",
+    "big_chances": "3",
+    "chances_created": "6",
+    "shots_inside_box": "8",
+    "shots_on_target": "4",
+    "touches_penalty_area": "17"
+  },
+  {
+    "name": "Dieumerci Mbokani",
+    "team": "NOR",
+    "big_chances": "4",
+    "chances_created": "2",
+    "shots_inside_box": "8",
+    "shots_on_target": "4",
+    "touches_penalty_area": "24"
+  },
+  {
+    "name": "Pedro",
+    "team": "CHE",
+    "big_chances": "1",
+    "chances_created": "6",
+    "shots_inside_box": "8",
+    "shots_on_target": "3",
+    "touches_penalty_area": "18"
+  },
+  {
+    "name": "Sakho (Diafra)",
+    "team": "WHM",
+    "big_chances": "3",
+    "chances_created": "3",
+    "shots_inside_box": "8",
+    "shots_on_target": "4",
+    "touches_penalty_area": "20"
+  },
+  {
+    "name": "Eriksen",
+    "team": "TOT",
+    "big_chances": "0",
+    "chances_created": "10",
+    "shots_inside_box": "8",
+    "shots_on_target": "4",
+    "touches_penalty_area": "17"
+  },
+  {
+    "name": "Gayle",
+    "team": "CPL",
+    "big_chances": "3",
+    "chances_created": "4",
+    "shots_inside_box": "8",
+    "shots_on_target": "5",
+    "touches_penalty_area": "19"
+  },
+  {
+    "name": "Pellè",
+    "team": "SOT",
+    "big_chances": "0",
+    "chances_created": "7",
+    "shots_inside_box": "7",
+    "shots_on_target": "4",
+    "touches_penalty_area": "24"
+  },
+  {
+    "name": "Lallana",
+    "team": "LIV",
+    "big_chances": "1",
+    "chances_created": "10",
+    "shots_inside_box": "7",
+    "shots_on_target": "3",
+    "touches_penalty_area": "25"
+  },
+  {
+    "name": "Antonio",
+    "team": "WHM",
+    "big_chances": "3",
+    "chances_created": "6",
+    "shots_inside_box": "7",
+    "shots_on_target": "5",
+    "touches_penalty_area": "24"
+  },
+  {
+    "name": "Redmond",
+    "team": "NOR",
+    "big_chances": "1",
+    "chances_created": "10",
+    "shots_inside_box": "7",
+    "shots_on_target": "3",
+    "touches_penalty_area": "17"
+  },
+  {
+    "name": "Berahino",
+    "team": "WBA",
+    "big_chances": "3",
+    "chances_created": "3",
+    "shots_inside_box": "7",
+    "shots_on_target": "3",
+    "touches_penalty_area": "10"
+  },
+  {
+    "name": "Firmino",
+    "team": "LIV",
+    "big_chances": "1",
+    "chances_created": "6",
+    "shots_inside_box": "7",
+    "shots_on_target": "3",
+    "touches_penalty_area": "17"
+  },
+  {
+    "name": "Mane",
+    "team": "SOT",
+    "big_chances": "4",
+    "chances_created": "2",
+    "shots_inside_box": "7",
+    "shots_on_target": "6",
+    "touches_penalty_area": "26"
+  },
+  {
+    "name": "Mitrovic",
+    "team": "NEW",
+    "big_chances": "1",
+    "chances_created": "5",
+    "shots_inside_box": "7",
+    "shots_on_target": "3",
+    "touches_penalty_area": "18"
+  },
+  {
+    "name": "Martial",
+    "team": "MUN",
+    "big_chances": "2",
+    "chances_created": "5",
+    "shots_inside_box": "7",
+    "shots_on_target": "5",
+    "touches_penalty_area": "34"
+  },
+  {
+    "name": "Morgan",
+    "team": "LEI",
+    "big_chances": "2",
+    "chances_created": "1",
+    "shots_inside_box": "6",
+    "shots_on_target": "2",
+    "touches_penalty_area": "11"
+  },
+  {
+    "name": "Fletcher (Steven)",
+    "team": "SUN",
+    "big_chances": "1",
+    "chances_created": "4",
+    "shots_inside_box": "6",
+    "shots_on_target": "3",
+    "touches_penalty_area": "25"
+  },
+  {
+    "name": "Mirallas",
+    "team": "EVE",
+    "big_chances": "2",
+    "chances_created": "6",
+    "shots_inside_box": "6",
+    "shots_on_target": "3",
+    "touches_penalty_area": "12"
+  },
+  {
+    "name": "Sánchez (Alexis)",
+    "team": "ARS",
+    "big_chances": "2",
+    "chances_created": "7",
+    "shots_inside_box": "6",
+    "shots_on_target": "5",
+    "touches_penalty_area": "34"
+  },
+  {
+    "name": "Sturridge",
+    "team": "LIV",
+    "big_chances": "2",
+    "chances_created": "3",
+    "shots_inside_box": "6",
+    "shots_on_target": "8",
+    "touches_penalty_area": "23"
+  },
+  {
+    "name": "Wijnaldum",
+    "team": "NEW",
+    "big_chances": "1",
+    "chances_created": "3",
+    "shots_inside_box": "6",
+    "shots_on_target": "4",
+    "touches_penalty_area": "14"
+  },
+  {
+    "name": "Abdi",
+    "team": "WAT",
+    "big_chances": "0",
+    "chances_created": "4",
+    "shots_inside_box": "6",
+    "shots_on_target": "3",
+    "touches_penalty_area": "12"
+  },
+  {
+    "name": "Willian",
+    "team": "CHE",
+    "big_chances": "0",
+    "chances_created": "6",
+    "shots_inside_box": "6",
+    "shots_on_target": "4",
+    "touches_penalty_area": "17"
+  },
+  {
+    "name": "Welbeck",
+    "team": "ARS",
+    "big_chances": "0",
+    "chances_created": "3",
+    "shots_inside_box": "6",
+    "shots_on_target": "4",
+    "touches_penalty_area": "15"
+  },
+  {
+    "name": "Kozák",
+    "team": "AVL",
+    "big_chances": "0",
+    "chances_created": "3",
+    "shots_inside_box": "6",
+    "shots_on_target": "2",
+    "touches_penalty_area": "21"
+  },
+  {
+    "name": "Lamela",
+    "team": "TOT",
+    "big_chances": "0",
+    "chances_created": "14",
+    "shots_inside_box": "6",
+    "shots_on_target": "2",
+    "touches_penalty_area": "16"
+  },
+  {
+    "name": "Okazaki",
+    "team": "LEI",
+    "big_chances": "1",
+    "chances_created": "0",
+    "shots_inside_box": "6",
+    "shots_on_target": "1",
+    "touches_penalty_area": "16"
+  },
+  {
+    "name": "Coutinho",
+    "team": "LIV",
+    "big_chances": "0",
+    "chances_created": "7",
+    "shots_inside_box": "6",
+    "shots_on_target": "3",
+    "touches_penalty_area": "13"
+  },
+  {
+    "name": "Iwobi",
+    "team": "ARS",
+    "big_chances": "0",
+    "chances_created": "4",
+    "shots_inside_box": "6",
+    "shots_on_target": "1",
+    "touches_penalty_area": "20"
+  },
+  {
+    "name": "Crouch",
+    "team": "STO",
+    "big_chances": "0",
+    "chances_created": "3",
+    "shots_inside_box": "5",
+    "shots_on_target": "2",
+    "touches_penalty_area": "27"
+  },
+  {
+    "name": "Fábregas",
+    "team": "CHE",
+    "big_chances": "1",
+    "chances_created": "9",
+    "shots_inside_box": "5",
+    "shots_on_target": "3",
+    "touches_penalty_area": "14"
+  },
+  {
+    "name": "Morrison",
+    "team": "WBA",
+    "big_chances": "0",
+    "chances_created": "3",
+    "shots_inside_box": "5",
+    "shots_on_target": "3",
+    "touches_penalty_area": "11"
+  },
+  {
+    "name": "Puncheon",
+    "team": "CPL",
+    "big_chances": "1",
+    "chances_created": "5",
+    "shots_inside_box": "5",
+    "shots_on_target": "2",
+    "touches_penalty_area": "11"
+  },
+  {
+    "name": "Johnson (Bradley)",
+    "team": "NOR",
+    "big_chances": "1",
+    "chances_created": "2",
+    "shots_inside_box": "5",
+    "shots_on_target": "2",
+    "touches_penalty_area": "8"
+  },
+  {
+    "name": "Nasri",
+    "team": "MCI",
+    "big_chances": "2",
+    "chances_created": "5",
+    "shots_inside_box": "5",
+    "shots_on_target": "3",
+    "touches_penalty_area": "8"
+  },
+  {
+    "name": "Sessegnon",
+    "team": "WBA",
+    "big_chances": "0",
+    "chances_created": "7",
+    "shots_inside_box": "5",
+    "shots_on_target": "2",
+    "touches_penalty_area": "11"
+  },
+  {
+    "name": "Carroll (Andy)",
+    "team": "WHM",
+    "big_chances": "2",
+    "chances_created": "8",
+    "shots_inside_box": "5",
+    "shots_on_target": "2",
+    "touches_penalty_area": "31"
+  },
+  {
+    "name": "Gestede",
+    "team": "AVL",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "5",
+    "shots_on_target": "0",
+    "touches_penalty_area": "15"
+  },
+  {
+    "name": "Sigurdsson",
+    "team": "SWA",
+    "big_chances": "0",
+    "chances_created": "8",
+    "shots_inside_box": "5",
+    "shots_on_target": "4",
+    "touches_penalty_area": "14"
+  },
+  {
+    "name": "Jordan Ayew",
+    "team": "AVL",
+    "big_chances": "0",
+    "chances_created": "4",
+    "shots_inside_box": "5",
+    "shots_on_target": "2",
+    "touches_penalty_area": "15"
+  },
+  {
+    "name": "Ings",
+    "team": "LIV",
+    "big_chances": "2",
+    "chances_created": "4",
+    "shots_inside_box": "5",
+    "shots_on_target": "3",
+    "touches_penalty_area": "21"
+  },
+  {
+    "name": "Lanzini",
+    "team": "WHM",
+    "big_chances": "1",
+    "chances_created": "6",
+    "shots_inside_box": "5",
+    "shots_on_target": "0",
+    "touches_penalty_area": "13"
+  },
+  {
+    "name": "Traore",
+    "team": "CHE",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "5",
+    "shots_on_target": "4",
+    "touches_penalty_area": "9"
+  },
+  {
+    "name": "Huth",
+    "team": "LEI",
+    "big_chances": "2",
+    "chances_created": "0",
+    "shots_inside_box": "4",
+    "shots_on_target": "0",
+    "touches_penalty_area": "11"
+  },
+  {
+    "name": "Diego Costa",
+    "team": "CHE",
+    "big_chances": "3",
+    "chances_created": "6",
+    "shots_inside_box": "4",
+    "shots_on_target": "5",
+    "touches_penalty_area": "22"
+  },
+  {
+    "name": "Naismith",
+    "team": "NOR",
+    "big_chances": "1",
+    "chances_created": "5",
+    "shots_inside_box": "4",
+    "shots_on_target": "1",
+    "touches_penalty_area": "18"
+  },
+  {
+    "name": "Afellay",
+    "team": "STO",
+    "big_chances": "1",
+    "chances_created": "3",
+    "shots_inside_box": "4",
+    "shots_on_target": "2",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Fuchs",
+    "team": "LEI",
+    "big_chances": "0",
+    "chances_created": "14",
+    "shots_inside_box": "4",
+    "shots_on_target": "3",
+    "touches_penalty_area": "7"
+  },
+  {
+    "name": "Ozil",
+    "team": "ARS",
+    "big_chances": "0",
+    "chances_created": "14",
+    "shots_inside_box": "4",
+    "shots_on_target": "2",
+    "touches_penalty_area": "21"
+  },
+  {
+    "name": "Payet",
+    "team": "WHM",
+    "big_chances": "1",
+    "chances_created": "19",
+    "shots_inside_box": "4",
+    "shots_on_target": "4",
+    "touches_penalty_area": "11"
+  },
+  {
+    "name": "Fellaini",
+    "team": "MUN",
+    "big_chances": "0",
+    "chances_created": "3",
+    "shots_inside_box": "4",
+    "shots_on_target": "1",
+    "touches_penalty_area": "24"
+  },
+  {
+    "name": "Arnautovic",
+    "team": "STO",
+    "big_chances": "1",
+    "chances_created": "6",
+    "shots_inside_box": "4",
+    "shots_on_target": "2",
+    "touches_penalty_area": "16"
+  },
+  {
+    "name": "Prödl",
+    "team": "WAT",
+    "big_chances": "1",
+    "chances_created": "0",
+    "shots_inside_box": "4",
+    "shots_on_target": "2",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Cissé",
+    "team": "NEW",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "4",
+    "shots_on_target": "2",
+    "touches_penalty_area": "7"
+  },
+  {
+    "name": "Alexandre Pato",
+    "team": "CHE",
+    "big_chances": "3",
+    "chances_created": "0",
+    "shots_inside_box": "4",
+    "shots_on_target": "2",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Montero",
+    "team": "SWA",
+    "big_chances": "1",
+    "chances_created": "2",
+    "shots_inside_box": "4",
+    "shots_on_target": "2",
+    "touches_penalty_area": "17"
+  },
+  {
+    "name": "Rodwell",
+    "team": "SUN",
+    "big_chances": "3",
+    "chances_created": "5",
+    "shots_inside_box": "4",
+    "shots_on_target": "2",
+    "touches_penalty_area": "8"
+  },
+  {
+    "name": "Kouyaté",
+    "team": "WHM",
+    "big_chances": "1",
+    "chances_created": "3",
+    "shots_inside_box": "4",
+    "shots_on_target": "1",
+    "touches_penalty_area": "11"
+  },
+  {
+    "name": "Smalling",
+    "team": "MUN",
+    "big_chances": "1",
+    "chances_created": "0",
+    "shots_inside_box": "4",
+    "shots_on_target": "0",
+    "touches_penalty_area": "9"
+  },
+  {
+    "name": "Clyne",
+    "team": "LIV",
+    "big_chances": "0",
+    "chances_created": "6",
+    "shots_inside_box": "4",
+    "shots_on_target": "1",
+    "touches_penalty_area": "13"
+  },
+  {
+    "name": "Clark",
+    "team": "AVL",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "4",
+    "shots_on_target": "2",
+    "touches_penalty_area": "13"
+  },
+  {
+    "name": "Dawson",
+    "team": "WBA",
+    "big_chances": "1",
+    "chances_created": "5",
+    "shots_inside_box": "4",
+    "shots_on_target": "1",
+    "touches_penalty_area": "13"
+  },
+  {
+    "name": "De Bruyne",
+    "team": "MCI",
+    "big_chances": "0",
+    "chances_created": "12",
+    "shots_inside_box": "4",
+    "shots_on_target": "6",
+    "touches_penalty_area": "14"
+  },
+  {
+    "name": "Tadic",
+    "team": "SOT",
+    "big_chances": "1",
+    "chances_created": "12",
+    "shots_inside_box": "4",
+    "shots_on_target": "2",
+    "touches_penalty_area": "21"
+  },
+  {
+    "name": "Son",
+    "team": "TOT",
+    "big_chances": "2",
+    "chances_created": "1",
+    "shots_inside_box": "4",
+    "shots_on_target": "2",
+    "touches_penalty_area": "8"
+  },
+  {
+    "name": "Barkley",
+    "team": "EVE",
+    "big_chances": "1",
+    "chances_created": "4",
+    "shots_inside_box": "4",
+    "shots_on_target": "2",
+    "touches_penalty_area": "14"
+  },
+  {
+    "name": "van Dijk",
+    "team": "SOT",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "4",
+    "shots_on_target": "2",
+    "touches_penalty_area": "12"
+  },
+  {
+    "name": "Enner Valencia",
+    "team": "WHM",
+    "big_chances": "1",
+    "chances_created": "2",
+    "shots_inside_box": "4",
+    "shots_on_target": "0",
+    "touches_penalty_area": "9"
+  },
+  {
+    "name": "Origi",
+    "team": "LIV",
+    "big_chances": "2",
+    "chances_created": "2",
+    "shots_inside_box": "4",
+    "shots_on_target": "5",
+    "touches_penalty_area": "18"
+  },
+  {
+    "name": "Rashford",
+    "team": "MUN",
+    "big_chances": "1",
+    "chances_created": "4",
+    "shots_inside_box": "4",
+    "shots_on_target": "3",
+    "touches_penalty_area": "26"
+  },
+  {
+    "name": "Jagielka",
+    "team": "EVE",
+    "big_chances": "1",
+    "chances_created": "0",
+    "shots_inside_box": "3",
+    "shots_on_target": "1",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Routledge",
+    "team": "SWA",
+    "big_chances": "1",
+    "chances_created": "6",
+    "shots_inside_box": "3",
+    "shots_on_target": "2",
+    "touches_penalty_area": "8"
+  },
+  {
+    "name": "Mertesacker",
+    "team": "ARS",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "3",
+    "shots_on_target": "1",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Davis (Steven)",
+    "team": "SOT",
+    "big_chances": "2",
+    "chances_created": "8",
+    "shots_inside_box": "3",
+    "shots_on_target": "4",
+    "touches_penalty_area": "11"
+  },
+  {
+    "name": "Kompany",
+    "team": "MCI",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "3",
+    "shots_on_target": "1",
+    "touches_penalty_area": "8"
+  },
+  {
+    "name": "Navas",
+    "team": "MCI",
+    "big_chances": "0",
+    "chances_created": "9",
+    "shots_inside_box": "3",
+    "shots_on_target": "0",
+    "touches_penalty_area": "14"
+  },
+  {
+    "name": "Flamini",
+    "team": "ARS",
+    "big_chances": "1",
+    "chances_created": "0",
+    "shots_inside_box": "3",
+    "shots_on_target": "1",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Cahill",
+    "team": "CHE",
+    "big_chances": "1",
+    "chances_created": "0",
+    "shots_inside_box": "3",
+    "shots_on_target": "1",
+    "touches_penalty_area": "12"
+  },
+  {
+    "name": "Pugh",
+    "team": "BOU",
+    "big_chances": "1",
+    "chances_created": "4",
+    "shots_inside_box": "3",
+    "shots_on_target": "1",
+    "touches_penalty_area": "9"
+  },
+  {
+    "name": "Grabban",
+    "team": "BOU",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "3",
+    "shots_on_target": "2",
+    "touches_penalty_area": "11"
+  },
+  {
+    "name": "Koné (Arouna)",
+    "team": "EVE",
+    "big_chances": "1",
+    "chances_created": "0",
+    "shots_inside_box": "3",
+    "shots_on_target": "2",
+    "touches_penalty_area": "12"
+  },
+  {
+    "name": "Gomis",
+    "team": "SWA",
+    "big_chances": "1",
+    "chances_created": "2",
+    "shots_inside_box": "3",
+    "shots_on_target": "1",
+    "touches_penalty_area": "9"
+  },
+  {
+    "name": "Anita",
+    "team": "NEW",
+    "big_chances": "0",
+    "chances_created": "6",
+    "shots_inside_box": "3",
+    "shots_on_target": "1",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Holebas",
+    "team": "WAT",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "3",
+    "shots_on_target": "1",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Bassong",
+    "team": "NOR",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "3",
+    "shots_on_target": "0",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Hazard",
+    "team": "CHE",
+    "big_chances": "0",
+    "chances_created": "9",
+    "shots_inside_box": "3",
+    "shots_on_target": "5",
+    "touches_penalty_area": "12"
+  },
+  {
+    "name": "Cleverley",
+    "team": "EVE",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "3",
+    "shots_on_target": "1",
+    "touches_penalty_area": "8"
+  },
+  {
+    "name": "Mata",
+    "team": "MUN",
+    "big_chances": "1",
+    "chances_created": "5",
+    "shots_inside_box": "3",
+    "shots_on_target": "2",
+    "touches_penalty_area": "13"
+  },
+  {
+    "name": "Koné (Lamine)",
+    "team": "SUN",
+    "big_chances": "2",
+    "chances_created": "1",
+    "shots_inside_box": "3",
+    "shots_on_target": "2",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Paloschi",
+    "team": "SWA",
+    "big_chances": "1",
+    "chances_created": "1",
+    "shots_inside_box": "3",
+    "shots_on_target": "2",
+    "touches_penalty_area": "10"
+  },
+  {
+    "name": "Emmanuel Rivière",
+    "team": "NEW",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "3",
+    "shots_on_target": "0",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Bony",
+    "team": "MCI",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "3",
+    "shots_on_target": "1",
+    "touches_penalty_area": "7"
+  },
+  {
+    "name": "Fernández",
+    "team": "SWA",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "3",
+    "shots_on_target": "0",
+    "touches_penalty_area": "10"
+  },
+  {
+    "name": "Kirchhoff",
+    "team": "SUN",
+    "big_chances": "0",
+    "chances_created": "3",
+    "shots_inside_box": "3",
+    "shots_on_target": "0",
+    "touches_penalty_area": "10"
+  },
+  {
+    "name": "Colback",
+    "team": "NEW",
+    "big_chances": "0",
+    "chances_created": "3",
+    "shots_inside_box": "3",
+    "shots_on_target": "1",
+    "touches_penalty_area": "8"
+  },
+  {
+    "name": "Rojo",
+    "team": "MUN",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "3",
+    "shots_on_target": "0",
+    "touches_penalty_area": "7"
+  },
+  {
+    "name": "Wickham",
+    "team": "CPL",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "3",
+    "shots_on_target": "0",
+    "touches_penalty_area": "12"
+  },
+  {
+    "name": "Townsend",
+    "team": "NEW",
+    "big_chances": "0",
+    "chances_created": "5",
+    "shots_inside_box": "3",
+    "shots_on_target": "4",
+    "touches_penalty_area": "9"
+  },
+  {
+    "name": "Westwood",
+    "team": "AVL",
+    "big_chances": "0",
+    "chances_created": "7",
+    "shots_inside_box": "3",
+    "shots_on_target": "4",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Oscar",
+    "team": "CHE",
+    "big_chances": "0",
+    "chances_created": "4",
+    "shots_inside_box": "3",
+    "shots_on_target": "1",
+    "touches_penalty_area": "7"
+  },
+  {
+    "name": "Joselu",
+    "team": "STO",
+    "big_chances": "3",
+    "chances_created": "1",
+    "shots_inside_box": "3",
+    "shots_on_target": "1",
+    "touches_penalty_area": "9"
+  },
+  {
+    "name": "Diouf",
+    "team": "STO",
+    "big_chances": "1",
+    "chances_created": "1",
+    "shots_inside_box": "3",
+    "shots_on_target": "1",
+    "touches_penalty_area": "9"
+  },
+  {
+    "name": "Jelavic",
+    "team": "WHM",
+    "big_chances": "1",
+    "chances_created": "2",
+    "shots_inside_box": "3",
+    "shots_on_target": "1",
+    "touches_penalty_area": "9"
+  },
+  {
+    "name": "Van Aanholt",
+    "team": "SUN",
+    "big_chances": "0",
+    "chances_created": "5",
+    "shots_inside_box": "3",
+    "shots_on_target": "2",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Wilson (Callum)",
+    "team": "BOU",
+    "big_chances": "0",
+    "chances_created": "4",
+    "shots_inside_box": "3",
+    "shots_on_target": "0",
+    "touches_penalty_area": "12"
+  },
+  {
+    "name": "King (Joshua)",
+    "team": "BOU",
+    "big_chances": "0",
+    "chances_created": "3",
+    "shots_inside_box": "3",
+    "shots_on_target": "2",
+    "touches_penalty_area": "12"
+  },
+  {
+    "name": "Zaha",
+    "team": "CPL",
+    "big_chances": "1",
+    "chances_created": "2",
+    "shots_inside_box": "3",
+    "shots_on_target": "2",
+    "touches_penalty_area": "21"
+  },
+  {
+    "name": "Schlupp",
+    "team": "LEI",
+    "big_chances": "0",
+    "chances_created": "6",
+    "shots_inside_box": "3",
+    "shots_on_target": "2",
+    "touches_penalty_area": "19"
+  },
+  {
+    "name": "Afobe",
+    "team": "BOU",
+    "big_chances": "1",
+    "chances_created": "3",
+    "shots_inside_box": "3",
+    "shots_on_target": "0",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Dier",
+    "team": "TOT",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "3",
+    "shots_on_target": "0",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Lingard",
+    "team": "MUN",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "3",
+    "shots_on_target": "3",
+    "touches_penalty_area": "13"
+  },
+  {
+    "name": "Funes Mori",
+    "team": "EVE",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "3",
+    "shots_on_target": "3",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Elneny",
+    "team": "ARS",
+    "big_chances": "2",
+    "chances_created": "3",
+    "shots_inside_box": "3",
+    "shots_on_target": "2",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Terry",
+    "team": "CHE",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "ONeil",
+    "team": "NOR",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Osman",
+    "team": "EVE",
+    "big_chances": "1",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Collins",
+    "team": "WHM",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Lambert",
+    "team": "WBA",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "12"
+  },
+  {
+    "name": "Jones (Billy)",
+    "team": "SUN",
+    "big_chances": "1",
+    "chances_created": "1",
+    "shots_inside_box": "2",
+    "shots_on_target": "2",
+    "touches_penalty_area": "8"
+  },
+  {
+    "name": "Baines",
+    "team": "EVE",
+    "big_chances": "1",
+    "chances_created": "8",
+    "shots_inside_box": "2",
+    "shots_on_target": "3",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Walters",
+    "team": "STO",
+    "big_chances": "1",
+    "chances_created": "5",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "17"
+  },
+  {
+    "name": "Hangeland",
+    "team": "CPL",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Demichelis",
+    "team": "MCI",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Graham",
+    "team": "SUN",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Hutton",
+    "team": "AVL",
+    "big_chances": "1",
+    "chances_created": "3",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Lennon",
+    "team": "EVE",
+    "big_chances": "1",
+    "chances_created": "2",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "8"
+  },
+  {
+    "name": "Noble",
+    "team": "WHM",
+    "big_chances": "1",
+    "chances_created": "4",
+    "shots_inside_box": "2",
+    "shots_on_target": "3",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Jarvis",
+    "team": "NOR",
+    "big_chances": "0",
+    "chances_created": "5",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "8"
+  },
+  {
+    "name": "Williams (Ashley)",
+    "team": "SWA",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Cazorla",
+    "team": "ARS",
+    "big_chances": "1",
+    "chances_created": "3",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "7"
+  },
+  {
+    "name": "Sinclair (Scott)",
+    "team": "AVL",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Richards",
+    "team": "AVL",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Silva",
+    "team": "MCI",
+    "big_chances": "0",
+    "chances_created": "13",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "15"
+  },
+  {
+    "name": "Valencia",
+    "team": "MUN",
+    "big_chances": "0",
+    "chances_created": "3",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "16"
+  },
+  {
+    "name": "Song",
+    "team": "WHM",
+    "big_chances": "0",
+    "chances_created": "5",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Skrtel",
+    "team": "LIV",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "2"
+  },
+  {
+    "name": "Cabaye",
+    "team": "CPL",
+    "big_chances": "1",
+    "chances_created": "3",
+    "shots_inside_box": "2",
+    "shots_on_target": "2",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Elphick",
+    "team": "BOU",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "8"
+  },
+  {
+    "name": "Shawcross",
+    "team": "STO",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Howson",
+    "team": "NOR",
+    "big_chances": "0",
+    "chances_created": "4",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Remy",
+    "team": "CHE",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "2",
+    "shots_on_target": "3",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Lovren",
+    "team": "LIV",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Fonte",
+    "team": "SOT",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "9"
+  },
+  {
+    "name": "Vertonghen",
+    "team": "TOT",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Bojan",
+    "team": "STO",
+    "big_chances": "1",
+    "chances_created": "2",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "7"
+  },
+  {
+    "name": "Allen",
+    "team": "LIV",
+    "big_chances": "1",
+    "chances_created": "3",
+    "shots_inside_box": "2",
+    "shots_on_target": "2",
+    "touches_penalty_area": "11"
+  },
+  {
+    "name": "Ogbonna",
+    "team": "WHM",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Sakho (Mamadou)",
+    "team": "LIV",
+    "big_chances": "1",
+    "chances_created": "1",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "R Bennett",
+    "team": "NOR",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "8"
+  },
+  {
+    "name": "Rodriguez",
+    "team": "SOT",
+    "big_chances": "1",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "2",
+    "touches_penalty_area": "9"
+  },
+  {
+    "name": "Sissoko",
+    "team": "NEW",
+    "big_chances": "1",
+    "chances_created": "1",
+    "shots_inside_box": "2",
+    "shots_on_target": "3",
+    "touches_penalty_area": "8"
+  },
+  {
+    "name": "Reid",
+    "team": "WHM",
+    "big_chances": "0",
+    "chances_created": "5",
+    "shots_inside_box": "2",
+    "shots_on_target": "2",
+    "touches_penalty_area": "9"
+  },
+  {
+    "name": "Falcao",
+    "team": "CHE",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "9"
+  },
+  {
+    "name": "Naughton",
+    "team": "SWA",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Zárate",
+    "team": "WHM",
+    "big_chances": "0",
+    "chances_created": "11",
+    "shots_inside_box": "2",
+    "shots_on_target": "2",
+    "touches_penalty_area": "7"
+  },
+  {
+    "name": "McArthur",
+    "team": "CPL",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "7"
+  },
+  {
+    "name": "Britos",
+    "team": "WAT",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Eder",
+    "team": "SWA",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Stanislas",
+    "team": "BOU",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Ritchie",
+    "team": "BOU",
+    "big_chances": "1",
+    "chances_created": "1",
+    "shots_inside_box": "2",
+    "shots_on_target": "2",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Mangala",
+    "team": "MCI",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Gradel",
+    "team": "BOU",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "12"
+  },
+  {
+    "name": "Herrera",
+    "team": "MUN",
+    "big_chances": "0",
+    "chances_created": "4",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Bartley",
+    "team": "SWA",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Coleman",
+    "team": "EVE",
+    "big_chances": "1",
+    "chances_created": "1",
+    "shots_inside_box": "2",
+    "shots_on_target": "2",
+    "touches_penalty_area": "12"
+  },
+  {
+    "name": "Shaqiri",
+    "team": "STO",
+    "big_chances": "1",
+    "chances_created": "5",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Ki",
+    "team": "SWA",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "2",
+    "shots_on_target": "2",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Coates",
+    "team": "SUN",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Austin",
+    "team": "SOT",
+    "big_chances": "1",
+    "chances_created": "1",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "11"
+  },
+  {
+    "name": "Juanmi",
+    "team": "SOT",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "9"
+  },
+  {
+    "name": "Oxlade-Chamberlain",
+    "team": "ARS",
+    "big_chances": "0",
+    "chances_created": "5",
+    "shots_inside_box": "2",
+    "shots_on_target": "2",
+    "touches_penalty_area": "13"
+  },
+  {
+    "name": "Klose",
+    "team": "NOR",
+    "big_chances": "1",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "8"
+  },
+  {
+    "name": "Emenike",
+    "team": "WHM",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Clasie",
+    "team": "SOT",
+    "big_chances": "0",
+    "chances_created": "5",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Berghuis",
+    "team": "WAT",
+    "big_chances": "0",
+    "chances_created": "6",
+    "shots_inside_box": "2",
+    "shots_on_target": "2",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Mahrez",
+    "team": "LEI",
+    "big_chances": "1",
+    "chances_created": "18",
+    "shots_inside_box": "2",
+    "shots_on_target": "3",
+    "touches_penalty_area": "18"
+  },
+  {
+    "name": "Ibe",
+    "team": "LIV",
+    "big_chances": "1",
+    "chances_created": "3",
+    "shots_inside_box": "2",
+    "shots_on_target": "3",
+    "touches_penalty_area": "11"
+  },
+  {
+    "name": "Can",
+    "team": "LIV",
+    "big_chances": "0",
+    "chances_created": "3",
+    "shots_inside_box": "2",
+    "shots_on_target": "2",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Pennington",
+    "team": "EVE",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Aké",
+    "team": "WAT",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "2",
+    "shots_on_target": "2",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Loftus-Cheek",
+    "team": "CHE",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "11"
+  },
+  {
+    "name": "Randall",
+    "team": "LIV",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Kaikai",
+    "team": "CPL",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Browning",
+    "team": "EVE",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Januzaj",
+    "team": "MUN",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "0",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Gabriel",
+    "team": "ARS",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "2",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "McNair",
+    "team": "MUN",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Onomah",
+    "team": "TOT",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "2",
+    "shots_on_target": "1",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Gray (Demarai)",
+    "team": "LEI",
+    "big_chances": "1",
+    "chances_created": "3",
+    "shots_inside_box": "2",
+    "shots_on_target": "3",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Barry",
+    "team": "EVE",
+    "big_chances": "0",
+    "chances_created": "7",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "7"
+  },
+  {
+    "name": "Pienaar",
+    "team": "EVE",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Delaney",
+    "team": "CPL",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "1"
+  },
+  {
+    "name": "Arteta",
+    "team": "ARS",
+    "big_chances": "1",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "2"
+  },
+  {
+    "name": "Hibbert",
+    "team": "EVE",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "1"
+  },
+  {
+    "name": "Johnson (Glen)",
+    "team": "STO",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "2"
+  },
+  {
+    "name": "K Touré",
+    "team": "LIV",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "1"
+  },
+  {
+    "name": "Rooney",
+    "team": "MUN",
+    "big_chances": "1",
+    "chances_created": "7",
+    "shots_inside_box": "1",
+    "shots_on_target": "3",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Whittaker",
+    "team": "NOR",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Touré",
+    "team": "MCI",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Francis",
+    "team": "BOU",
+    "big_chances": "0",
+    "chances_created": "7",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Schweinsteiger",
+    "team": "MUN",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "7"
+  },
+  {
+    "name": "Chamakh",
+    "team": "CPL",
+    "big_chances": "1",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Watson (Ben)",
+    "team": "WAT",
+    "big_chances": "0",
+    "chances_created": "3",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "2"
+  },
+  {
+    "name": "Adebayor",
+    "team": "CPL",
+    "big_chances": "0",
+    "chances_created": "3",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "17"
+  },
+  {
+    "name": "Tettey",
+    "team": "NOR",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "1"
+  },
+  {
+    "name": "Joe Ledley",
+    "team": "CPL",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "1"
+  },
+  {
+    "name": "Young",
+    "team": "MUN",
+    "big_chances": "1",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "1"
+  },
+  {
+    "name": "Brunt",
+    "team": "WBA",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Dann",
+    "team": "CPL",
+    "big_chances": "0",
+    "chances_created": "3",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "18"
+  },
+  {
+    "name": "McAuley",
+    "team": "WBA",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Martin",
+    "team": "NOR",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Anya",
+    "team": "WAT",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Dorrans",
+    "team": "NOR",
+    "big_chances": "0",
+    "chances_created": "3",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Adam",
+    "team": "STO",
+    "big_chances": "1",
+    "chances_created": "2",
+    "shots_inside_box": "1",
+    "shots_on_target": "2",
+    "touches_penalty_area": "1"
+  },
+  {
+    "name": "Walcott",
+    "team": "ARS",
+    "big_chances": "1",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Tomlin",
+    "team": "BOU",
+    "big_chances": "0",
+    "chances_created": "5",
+    "shots_inside_box": "1",
+    "shots_on_target": "2",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Odemwingie",
+    "team": "STO",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Fernandinho",
+    "team": "MCI",
+    "big_chances": "0",
+    "chances_created": "3",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "8"
+  },
+  {
+    "name": "Hooper",
+    "team": "NOR",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "1"
+  },
+  {
+    "name": "Anichebe",
+    "team": "WBA",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Randolph",
+    "team": "WHM",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "1"
+  },
+  {
+    "name": "Wasilewski",
+    "team": "LEI",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Kaboul",
+    "team": "SUN",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Sagna",
+    "team": "MCI",
+    "big_chances": "0",
+    "chances_created": "5",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Obertan",
+    "team": "NEW",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "2",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Dembélé",
+    "team": "TOT",
+    "big_chances": "1",
+    "chances_created": "7",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "2"
+  },
+  {
+    "name": "Lens",
+    "team": "SUN",
+    "big_chances": "0",
+    "chances_created": "3",
+    "shots_inside_box": "1",
+    "shots_on_target": "2",
+    "touches_penalty_area": "9"
+  },
+  {
+    "name": "Olsson (Jonas)",
+    "team": "WBA",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "8"
+  },
+  {
+    "name": "Emnes",
+    "team": "SWA",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "1"
+  },
+  {
+    "name": "Mulumbu",
+    "team": "NOR",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "2"
+  },
+  {
+    "name": "Cork",
+    "team": "SWA",
+    "big_chances": "1",
+    "chances_created": "3",
+    "shots_inside_box": "1",
+    "shots_on_target": "2",
+    "touches_penalty_area": "7"
+  },
+  {
+    "name": "Bertrand",
+    "team": "SOT",
+    "big_chances": "1",
+    "chances_created": "2",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Gosling",
+    "team": "BOU",
+    "big_chances": "0",
+    "chances_created": "3",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Ivanovic",
+    "team": "CHE",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "2"
+  },
+  {
+    "name": "Azpilicueta",
+    "team": "CHE",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Gouffran",
+    "team": "NEW",
+    "big_chances": "1",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Schneiderlin",
+    "team": "MUN",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "2"
+  },
+  {
+    "name": "Maiga",
+    "team": "WHM",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "2",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Rangel",
+    "team": "SWA",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Hernández",
+    "team": "MUN",
+    "big_chances": "1",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Guédioura",
+    "team": "WAT",
+    "big_chances": "0",
+    "chances_created": "5",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Sako",
+    "team": "CPL",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "2"
+  },
+  {
+    "name": "NDoye",
+    "team": "SUN",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "de Jong",
+    "team": "NEW",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "9"
+  },
+  {
+    "name": "Moses",
+    "team": "WHM",
+    "big_chances": "1",
+    "chances_created": "3",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Tomkins",
+    "team": "WHM",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "2"
+  },
+  {
+    "name": "Koscielny",
+    "team": "ARS",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Albrighton",
+    "team": "LEI",
+    "big_chances": "1",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Doumbia",
+    "team": "NEW",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Toivonen",
+    "team": "SUN",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Fernando",
+    "team": "MCI",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Janmaat",
+    "team": "NEW",
+    "big_chances": "1",
+    "chances_created": "3",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "2"
+  },
+  {
+    "name": "Wilshere",
+    "team": "ARS",
+    "big_chances": "1",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Smith (Adam)",
+    "team": "BOU",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Wanyama",
+    "team": "SOT",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Chadli",
+    "team": "TOT",
+    "big_chances": "1",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Bolasie",
+    "team": "CPL",
+    "big_chances": "0",
+    "chances_created": "3",
+    "shots_inside_box": "1",
+    "shots_on_target": "4",
+    "touches_penalty_area": "8"
+  },
+  {
+    "name": "Ward (Joel)",
+    "team": "CPL",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "2"
+  },
+  {
+    "name": "Alderweireld",
+    "team": "TOT",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Cook",
+    "team": "BOU",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "1"
+  },
+  {
+    "name": "Henderson (Jordan)",
+    "team": "LIV",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Otamendi",
+    "team": "MCI",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Walker",
+    "team": "TOT",
+    "big_chances": "0",
+    "chances_created": "6",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Mason (Ryan)",
+    "team": "TOT",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Khazri",
+    "team": "SUN",
+    "big_chances": "0",
+    "chances_created": "5",
+    "shots_inside_box": "1",
+    "shots_on_target": "2",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Muniesa",
+    "team": "STO",
+    "big_chances": "0",
+    "chances_created": "3",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "1"
+  },
+  {
+    "name": "Drinkwater",
+    "team": "LEI",
+    "big_chances": "0",
+    "chances_created": "5",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "7"
+  },
+  {
+    "name": "Matic",
+    "team": "CHE",
+    "big_chances": "1",
+    "chances_created": "3",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "2"
+  },
+  {
+    "name": "McClean",
+    "team": "WBA",
+    "big_chances": "0",
+    "chances_created": "5",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "10"
+  },
+  {
+    "name": "Cuadrado",
+    "team": "CHE",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "1"
+  },
+  {
+    "name": "Kramaric",
+    "team": "LEI",
+    "big_chances": "1",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Caulker",
+    "team": "LIV",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Miguel Layún",
+    "team": "WAT",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "2"
+  },
+  {
+    "name": "Bacuna",
+    "team": "AVL",
+    "big_chances": "1",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "2"
+  },
+  {
+    "name": "Lee Chung-Yong",
+    "team": "CPL",
+    "big_chances": "0",
+    "chances_created": "4",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Borini",
+    "team": "SUN",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Trippier",
+    "team": "TOT",
+    "big_chances": "1",
+    "chances_created": "4",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Souaré",
+    "team": "CPL",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "2"
+  },
+  {
+    "name": "O'Kane",
+    "team": "BOU",
+    "big_chances": "1",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Amat",
+    "team": "SWA",
+    "big_chances": "1",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Gueye",
+    "team": "AVL",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "2"
+  },
+  {
+    "name": "Carles Gil",
+    "team": "AVL",
+    "big_chances": "0",
+    "chances_created": "6",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "5"
+  },
+  {
+    "name": "Brady",
+    "team": "NOR",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Deulofeu",
+    "team": "EVE",
+    "big_chances": "0",
+    "chances_created": "5",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "9"
+  },
+  {
+    "name": "Campbell (Joel)",
+    "team": "ARS",
+    "big_chances": "0",
+    "chances_created": "3",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "11"
+  },
+  {
+    "name": "Imbula",
+    "team": "STO",
+    "big_chances": "0",
+    "chances_created": "5",
+    "shots_inside_box": "1",
+    "shots_on_target": "2",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Sterling",
+    "team": "MCI",
+    "big_chances": "1",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "8"
+  },
+  {
+    "name": "Bamford",
+    "team": "NOR",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Galloway",
+    "team": "EVE",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Barrow",
+    "team": "SWA",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "15"
+  },
+  {
+    "name": "Niasse",
+    "team": "EVE",
+    "big_chances": "1",
+    "chances_created": "3",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "7"
+  },
+  {
+    "name": "Grealish",
+    "team": "AVL",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "8"
+  },
+  {
+    "name": "Watmore",
+    "team": "SUN",
+    "big_chances": "0",
+    "chances_created": "3",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "10"
+  },
+  {
+    "name": "Baba Rahman",
+    "team": "CHE",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Smith (Brad)",
+    "team": "LIV",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "6"
+  },
+  {
+    "name": "Bentaleb",
+    "team": "TOT",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "1",
+    "shots_on_target": "2",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Rantie",
+    "team": "BOU",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Gnabry",
+    "team": "ARS",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "1"
+  },
+  {
+    "name": "Seyi Ojo",
+    "team": "LIV",
+    "big_chances": "0",
+    "chances_created": "8",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "8"
+  },
+  {
+    "name": "N'Jie",
+    "team": "TOT",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "2"
+  },
+  {
+    "name": "Brannagan",
+    "team": "LIV",
+    "big_chances": "0",
+    "chances_created": "3",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Yedlin",
+    "team": "SUN",
+    "big_chances": "0",
+    "chances_created": "2",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Kenny",
+    "team": "EVE",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "2"
+  },
+  {
+    "name": "Aarons",
+    "team": "NEW",
+    "big_chances": "1",
+    "chances_created": "3",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Amartey",
+    "team": "LEI",
+    "big_chances": "1",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "1",
+    "touches_penalty_area": "2"
+  },
+  {
+    "name": "Traoré",
+    "team": "AVL",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Lyden",
+    "team": "AVL",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "3"
+  },
+  {
+    "name": "Ayoze Pérez",
+    "team": "NEW",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "14"
+  },
+  {
+    "name": "Toner",
+    "team": "AVL",
+    "big_chances": "0",
+    "chances_created": "1",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Oxford",
+    "team": "WHM",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "2"
+  },
+  {
+    "name": "Roberts (Tyler)",
+    "team": "WBA",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "4"
+  },
+  {
+    "name": "Abraham",
+    "team": "CHE",
+    "big_chances": "0",
+    "chances_created": "0",
+    "shots_inside_box": "1",
+    "shots_on_target": "0",
+    "touches_penalty_area": "5"
+  }
+]
