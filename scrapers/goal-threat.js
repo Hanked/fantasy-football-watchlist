@@ -1,26 +1,13 @@
 var Nightmare = require('nightmare')
 var nightmare = Nightmare({ show: true })
-//var toJson = require('./../utils/to-json.js')
-//var j = new toJson();
+var toJson = require('./../utils/to-json.js')
+var j = new toJson();
 
 module.exports = function(username, password) {
   // get credentials to authenticate
   this.username = username;
   this.password = password;
-
-  // import/export paths for src HTML and output JSON
-  this.htmlOutputPath = './html-snapshots/goal-threat.html';
-
-  // define resulting data struture
-  // this.dataStructure = [{
-  //   name: 'td.first',
-  //   team: 'td:nth-child(3)',
-  //   big_chances: 'td:nth-child(4)',
-  //   chances_created: 'td:nth-child(5)',
-  //   shots_inside_box: 'td:nth-child(11)',
-  //   shots_on_target: 'td:nth-child(12)',
-  //   touches_penalty_area: 'td:nth-child(13)'
-  // }];
+  this.htmlExportPath = './html-snapshots/goal-threat.html';
 
   this.getData = function() {
     // run automation
@@ -36,7 +23,7 @@ module.exports = function(username, password) {
 
       // create file containing html page src
       .wait('table.stats')
-      .html(this.htmlOutputPath, 'HTMLOnly')
+      .html(this.htmlExportPath, 'HTMLOnly')
 
       // logout so that next browser instance starts with a clean session
       // wait times can potentially be reduced, was having problems without them
@@ -45,10 +32,21 @@ module.exports = function(username, password) {
       .wait(5000)
       .end()
 
-      .then(function(result){
+      .then(function(result) {
         //output json data
-        console.log('should export json here');
-        // j.capture(this.dataStructure, this.srcPath, this.outputPath)
+        j.capture(
+          './../html-snapshots/goal-threat.html',
+          './json-snapshots/goal-threat.json',
+          [{
+            name: 'td.first',
+            team: 'td:nth-child(3)',
+            big_chances: 'td:nth-child(4)',
+            chances_created: 'td:nth-child(5)',
+            shots_inside_box: 'td:nth-child(11)',
+            shots_on_target: 'td:nth-child(12)',
+            touches_penalty_area: 'td:nth-child(13)'
+          }]
+        );
       })
 
       .catch(function (error) {
