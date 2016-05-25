@@ -1,11 +1,14 @@
 # fantasy-football-watchlist
 
 ```
-$ npm install nightmare
+// Need to add a `package.json`!!!
+$ npm install
 ```
 
 ```
 $ node ffs.js [USERNAME] [PASSWORD]
 ```
 
-Need to add a `package.json`
+```
+$ node to_json.js
+```
