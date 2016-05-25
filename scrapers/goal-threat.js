@@ -3,23 +3,15 @@ var nightmare = Nightmare({ show: true })
 var toJson = require('./../utils/to-json.js')
 var j = new toJson();
 
-module.exports = function(username, password) {
-  // get credentials to authenticate
-  this.username = username;
-  this.password = password;
+module.exports = function() {
   this.htmlExportPath = './html-snapshots/goal-threat.html';
 
   this.getData = function() {
     // run automation
     nightmare
       // go to personal 'goal threat' stats table
+      .wait(6000)
       .goto('http://members.fantasyfootballscout.co.uk/my-stats-tables/view/7515/')
-
-      // authenticate
-      .wait('form.login')
-      .type('form.login [name=username]', this.username)
-      .type('form.login [name=password]', this.password)
-      .click('form.login [type=submit]')
 
       // create file containing html page src
       .wait('table.stats')
@@ -27,8 +19,6 @@ module.exports = function(username, password) {
 
       // logout so that next browser instance starts with a clean session
       // wait times can potentially be reduced, was having problems without them
-      .wait(5000)
-      .goto('http://members.fantasyfootballscout.co.uk/logout')
       .wait(5000)
       .end()
 
@@ -47,6 +37,8 @@ module.exports = function(username, password) {
             touches_penalty_area: 'td:nth-child(13)'
           }]
         );
+
+        console.log('goal threat');
       })
 
       .catch(function (error) {
