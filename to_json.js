@@ -13,10 +13,15 @@ function readContent(callback) {
 
 var html;
 readContent(function (err, content) {
-  x(content, 'td.first a',
+  x(content, 'tbody tr',
   [{
-    name: '',
-    url: '@href'
+    name: 'td.first',
+    team: 'td:nth-child(3)',
+    big_chances: 'td:nth-child(4)',
+    chances_created: 'td:nth-child(5)',
+    shots_inside_box: 'td:nth-child(11)',
+    shots_on_target: 'td:nth-child(12)',
+    touches_penalty_area: 'td:nth-child(13)'
   }])
   .write('results.json');
 })
