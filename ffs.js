@@ -5,19 +5,6 @@ var nightmare = Nightmare({ show: false })
 var username = process.argv[2];
 var password = process.argv[3];
 
-// generate readable timestamp
-var dateString = function() {
-  var date = new Date();
-  var d = date.getDate();
-  var mo = date.getMonth() + 1;
-  var y = date.getFullYear();
-  var h = date.getHours();
-  var mi = date.getMinutes();
-  var s = date.getSeconds();
-
-  return ''+y+mo+d+h+mi+s;
-}
-
 // run automation
 nightmare
   // go to personal 'goal threat' stats table
