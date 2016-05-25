@@ -31,7 +31,7 @@ nightmare
 
   // create file containing html page src
   .wait('table.stats')
-  .html('html-snapshots/' + dateString() + '.html', 'HTMLOnly')
+  .html('html-snapshots/stats-table-7515.html', 'HTMLOnly')
 
   // .evaluate(function () {
   //   return document.querySelector('table.stats tbody td.first a').text
