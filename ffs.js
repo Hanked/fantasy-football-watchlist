@@ -33,19 +33,12 @@ nightmare
   .wait('table.stats')
   .html('html-snapshots/stats-table-7515.html', 'HTMLOnly')
 
-  // .evaluate(function () {
-  //   return document.querySelector('table.stats tbody td.first a').text
-  // })
-
   // logout so that next browser instance starts with a clean session
+  // wait times can potentially be reduced, was having problems without them
   .wait(5000)
   .goto('http://members.fantasyfootballscout.co.uk/logout')
   .wait(5000)
   .end()
-
-  // .then(function (result) {
-  //   console.log(result)
-  // })
 
   .catch(function (error) {
     console.error('Search failed:', error);

@@ -14,4 +14,4 @@ x(html, 'tbody tr',
   shots_on_target: 'td:nth-child(12)',
   touches_penalty_area: 'td:nth-child(13)'
 }])
-.write('results.json');
+.write('results.json')
