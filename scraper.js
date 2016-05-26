@@ -45,7 +45,7 @@ nightmare
         crosses_successful: 'td:nth-child(5)',
         goal_attempts_in_box_conceded: 'td:nth-child(7)',
         shots_inside_box: 'td:nth-child(10)',
-        shots_on_target: 'td:nth-child(11)',
+        shots_on_target: 'td:nth-child(11)'
       }]
     );
 
