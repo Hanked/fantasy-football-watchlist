@@ -5,5 +5,5 @@ $ npm install
 ```
 
 ```
-$ node scrape.js [USERNAME] [PASSWORD]
+$ node scraper.js [USERNAME] [PASSWORD]
 ```
