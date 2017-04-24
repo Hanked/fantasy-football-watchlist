@@ -38,7 +38,7 @@ nightmare
       './../html-snapshots/team-stats.html',
       './json-snapshots/team-stats.json',
       [{
-        team: 'td.first',
+        team: 'td.first | trim',
         big_chances: 'td:nth-child(2)',
         big_chances_conceded: 'td:nth-child(3)',
         chances_created: 'td:nth-child(4)',
@@ -54,12 +54,12 @@ nightmare
       './json-snapshots/goal-threat.json',
       [{
         name: 'td.first',
-        team: 'td:nth-child(3)',
+        team: 'td:nth-child(3) | trim',
         big_chances: 'td:nth-child(4)',
         chances_created: 'td:nth-child(5)',
-        shots_inside_box: 'td:nth-child(11)',
-        shots_on_target: 'td:nth-child(12)',
-        touches_penalty_area: 'td:nth-child(13)'
+        shots_inside_box: 'td:nth-child(10)',
+        shots_on_target: 'td:nth-child(11)',
+        touches_penalty_area: 'td:nth-child(12)'
       }]
     );
   })
